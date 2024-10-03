@@ -1,0 +1,20 @@
+{
+	"folders": [
+		{
+			"path": "../../Documents/PlatformIO/Projects/Modbus"
+		},
+		{
+			"name": "orcanode basecode",
+			"path": "../../Documents/PlatformIO/Projects/orcanode basecode"
+		},
+		{
+			"name": "usesharedlogic",
+			"path": "../../Documents/PlatformIO/Projects/usesharedlogic"
+		},
+		{
+			"name": "sharedlogic",
+			"path": "../../Documents/PlatformIO/Projects/sharedlogic"
+		}
+	],
+	"settings": {}
+}
